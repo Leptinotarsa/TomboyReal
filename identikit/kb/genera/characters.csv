@@ -14,7 +14,7 @@ Wing,WIngCells,Hair in closed cellls,"Are there hairs in the closed cells (like 
 Scopae,Sex,Sex,Most actively foraging bees are female,,key,text,single,,1,
 Scopae,Scopae,Scopae: for females only,A character of many females - brushes of hair that accumulate pollen.,,key,text,multi,,10,
 Taxonomy,Family,Family,,,display,,,,10,
-Details,HairBandPos,Abdominal hair bands - apical or basal,This character differentiates Lasioglossum from Halictus,,key,text,multi,,3,
+Body,HairBandPos,Abdominal hair bands - apical or basal,This character differentiates Lasioglossum from Halictus,,key,text,multi,,3,
 Head,Fovea,Is there a depressed area (fovea) medial to the eye?,"The fovea is a helpful character, may require optimal light and magnification to see.",,key,text,multi,,2,
 Legs,Claws,Is there a medial pad (arolia) between tarsal claws?,Present in most genera; absent in <i>Megachile</i> and <i>Coelioxys</i>,,key,text,multi,,2,
 Head,AntLow,Position of antennae on face,Differentiates <i>Dufourea</> from other Halictidae,,key,text,multi,,2,
