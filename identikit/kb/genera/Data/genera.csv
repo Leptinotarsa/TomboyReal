@@ -1,0 +1,7 @@
+,,,,,,,Sex,Scopae
+The Sex character: I cannot get it to interact with Scopae. ,,,,,,,male | female,not evident (m) | hind legs (f)
+"Desired: If I select ""No scopae"" and ""female"" I should get only those taxa whose females lack scopae.",,,,,,,male | female,not evident (m) | hind legs (f)
+,,,,,,,male | female,not evident (m) | hind legs (f)
+Current work-around: ,,,,,,,male | female,not evident (m) | hind legs (f)
+,Remove Sex as a character,,,,,,male | female,not evident (m) | not evident (f)
+,"For Scopae, Help text says for females only, and references",,,,,,,

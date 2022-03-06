@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>body</key>
+			<array>
+				<dict>
+					<key>text</key>
+					<string>Get a more extensive set of results for your searches in the updated Find tool.</string>
+				</dict>
+			</array>
+			<key>icon</key>
+			<string>../../media/editing_large_2x.png</string>
+			<key>metadata</key>
+			<dict>
+				<key>featuregatename</key>
+				<string>Microsoft.Office.Excel.UseNewFindAndReplace</string>
+				<key>featuregatescope</key>
+				<string>Audience::None</string>
+				<key>id</key>
+				<integer>22011</integer>
+				<key>platform</key>
+				<string>Mac</string>
+			</dict>
+			<key>title</key>
+			<string>Enjoy an improved search experience</string>
+		</dict>
+	</array>
+	<key>version</key>
+	<integer>1</integer>
+</dict>
+</plist>
