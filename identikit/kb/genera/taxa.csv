@@ -1,4 +1,4 @@
-Taxon,Sex,BodySize,BodyColor,BodyHair,SMC,BasalVein,RecurrentVein,Scopae,Family,TergalBands,Unique,HairBandPos,Fovea,Claws,AntLow,Parap,WingCells,Ash,Clypeus
+Taxon,Sex,BodySize,BodyColor,BodyHair,SMC,BasalVein,RecurrentVein,Scopae,Family,TergalBands,Unique,HairBandPos,Fovea,Claws,AntLow,Parap,WingCells,Ash
 Lasioglossum,male | female,[4-11],brown or black | faint metallic,moderate,2 | 3,arched,n/a,hind legs (f),Halictidae,distinct | absent,novalue,basal,absent,n/a,no,n/a,hair,n/a,long
 Halictus,male | female,[5-11],brown or black | faint metallic | marked by color,moderate,3,arched,n/a,hind legs (f),Halictidae,distinct,novalue,apical,absent,n/a,no,n/a,hair,n/a,long
 Agapostemon,male | female,10,metallic | marked by color,moderate,3,arched,n/a,hind legs (f),Halictidae,distinct | absent,novalue,basal,absent,n/a,no,n/a,hair,n/a,long
