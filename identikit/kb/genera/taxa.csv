@@ -1,4 +1,4 @@
-Taxon,Sex,BodySize,BodyColor | Metallic,BodyHair,SMC,BasalVein,WingVeinSpecial,Scopae,Family,TergalBands,Unique,HairBandPos,Fovea,Claws,AntLow,Parap,Ash
+Taxon,Sex,BodySize,BodyColor,BodyHair,SMC,BasalVein,WingVeinSpecial,Scopae,Family,TergalBands,Unique,HairBandPos,Fovea,Claws,AntLow,Parap,Ash
 Lasioglossum (subgenus Lasioglossum),male | female,[7-11],brown or black | faint metallic,moderate,3,arched,none,hind legs (f),Halictidae,distinct,novalue,basal,absent,n/a,no,linear,n/a
 Lasioglossum (small species subgenera),male | female,[4-7],brown or black | metallic,moderate,3,arched,none,hind legs (f),Halictidae,absent | distinct,Sphecodes,basal,absent,n/a,no,linear,n/a
 Halictus,male | female,[5-11],brown or black | faint metallic,moderate,3,arched,none,hind legs (f),Halictidae,distinct,novalue,apical,absent,n/a,no,n/a,n/a
@@ -23,24 +23,3 @@ Hylaeus,male | female,[5-7],brown or black,little,2,straight,none,not evident (f
 Colletes,male | female,[6-12],brown or black,moderate,3,straight,S-shape,hind legs (f),Colletidae,distinct,novalue,n/a,naked,n/a,novalue,n/a,n/a
 Anthophora,male | female,[6-12],brown or black,moderate | very,3,straight,no hair,hind legs (f),Apidae,hard to say,novalue,n/a,absent,n/a,novalue,n/a,n/a
 Ashmeadiella,male | female,[4-10],brown or black | marked by color,moderate,2,straight,none,abdominal (f),Megachilidae,absent | distinct,novalue,n/a,absent,n/a,novalue,n/a,yes
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
